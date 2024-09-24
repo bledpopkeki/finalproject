@@ -1,0 +1,14 @@
+nav li{
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 25px;
+}
+nav{
+   
+    background-color: lightskyblue;
+}
+nav li a{
+    margin-left:  100px;
+    margin-right:  100px;
+}
